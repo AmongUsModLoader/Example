@@ -1,0 +1,8 @@
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/bin/Debug/net471/AmongUsExampleMod.dll
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/bin/Debug/net471/AmongUsExampleMod.pdb
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/obj/Debug/net471/AmongUsExampleMod.csprojAssemblyReference.cache
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/obj/Debug/net471/AmongUsExampleMod.AssemblyInfoInputs.cache
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/obj/Debug/net471/AmongUsExampleMod.AssemblyInfo.cs
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/obj/Debug/net471/AmongUsExampleMod.csproj.CoreCompileInputs.cache
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/obj/Debug/net471/AmongUsExampleMod.dll
+/run/media/georgek/Seagate/C#/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/AmongUsExampleMod/obj/Debug/net471/AmongUsExampleMod.pdb
