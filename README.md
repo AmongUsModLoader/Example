@@ -1,2 +1,2 @@
 # AmongUsExampleMod
-An example and debug mod for the [https://github.com/MsRandom/AmongUsModLoader](among us mod loader)
+An example and debug mod for the [among us mod loader](https://github.com/MsRandom/AmongUsModLoader)
