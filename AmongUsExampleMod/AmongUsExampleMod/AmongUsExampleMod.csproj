@@ -64,6 +64,8 @@
             <HintPath>../Libs/AmongUsModLoader.dll</HintPath>
             <Private>False</Private>
         </Reference>
+        
+        <EmbeddedResource Include="ModEntry" />
     </ItemGroup>
 
 </Project>
