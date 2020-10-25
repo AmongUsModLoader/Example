@@ -9,7 +9,7 @@ namespace AmongUsExampleMod
 
 		public override void Load()
 		{
-			Game.StartEvent += manager => Log.LogInfo("success");
+			Game.StartEvent += manager => Log.Write("success");
 		}
 	}
 }
