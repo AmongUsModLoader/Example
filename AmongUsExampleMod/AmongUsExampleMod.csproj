@@ -13,6 +13,7 @@
             <HintPath>$(AMONG_US_PATH)/BepInEx/plugins/AmongUsModLoader.dll</HintPath>
             <Private>False</Private>
         </Reference>
+        
     </ItemGroup>
 
     <ItemGroup>

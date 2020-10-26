@@ -7,6 +7,10 @@ namespace AmongUsExampleMod
 	{
 		public ExampleMod() : base("Example", "Example Mod", "0.0") {}
 
-		public override void Load() => Game.StartEvent += manager => Log.Write("success");
+		public override void Load() {
+			
+			GameLobby.LobbyLoadEvent += manager => Log.Write("Game lobby loaded");
+
+		}
 	}
 }
