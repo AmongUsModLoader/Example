@@ -1,5 +1,5 @@
 ﻿using AmongUs.Api;
-using AmongUs.ModLoader;
+using AmongUs.Loader;
 
 namespace AmongUsExampleMod
 {
@@ -7,9 +7,6 @@ namespace AmongUsExampleMod
 	{
 		public ExampleMod() : base("Example", "Example Mod", "0.0") {}
 
-		public override void Load()
-		{
-			Game.StartEvent += manager => Log.Write("success");
-		}
+		public override void Load() => Game.StartEvent += manager => Log.Write("success");
 	}
 }

@@ -13,8 +13,10 @@
             <HintPath>$(AMONG_US_PATH)/BepInEx/plugins/AmongUsModLoader.dll</HintPath>
             <Private>False</Private>
         </Reference>
+    </ItemGroup>
 
-        <EmbeddedResource Include="ModEntry.txt" />
+    <ItemGroup>
+      <EmbeddedResource Include="Resources\ModEntry.txt" />
     </ItemGroup>
 
     <Target Name="Copy" AfterTargets="Build">
