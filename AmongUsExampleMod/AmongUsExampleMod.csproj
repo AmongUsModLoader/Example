@@ -9,8 +9,8 @@
             <HintPath>$(AMONG_US_PATH)/BepInEx/unhollowed/Assembly-CSharp.dll</HintPath>
         </Reference>
 
-        <Reference Include="AmongUsModLoader">
-            <HintPath>$(AMONG_US_PATH)/BepInEx/plugins/AmongUsModLoader.dll</HintPath>
+        <Reference Include="AmongUs">
+            <HintPath>$(AMONG_US_PATH)/BepInEx/plugins/AmongUs.dll</HintPath>
             <Private>False</Private>
         </Reference>
     </ItemGroup>
