@@ -10,7 +10,7 @@ namespace AmongUsExampleMod
 		
 		public override void Load(RegistrarProvider registrar)
 		{
-			GameLobby.LobbyLoadEvent += manager => Log.Write("success");
+			GameLobby.LobbyLoadEvent += lobby => Log.Write("Game lobby loaded");
 			registrar.GetRegistrar(KillDistance.Registry).Register("Infinite", new KillDistance(500));
 		}
 	}
