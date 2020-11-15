@@ -6,7 +6,7 @@
 
     <ItemGroup>
         <Reference Include="AmongUs">
-            <HintPath>$(AMONG_US_PATH)/BepInEx/plugins/AmongUs.dll</HintPath>
+            <HintPath>Libs/AmongUs.Api.dll</HintPath>
             <Private>False</Private>
         </Reference>
     </ItemGroup>
@@ -19,7 +19,7 @@
         <ItemGroup>
             <OutputFiles Include="$(OutputPath)$(AssemblyName).dll" />
         </ItemGroup>
-        <Copy SourceFiles="@(OutputFiles)" DestinationFolder="$(AMONG_US_PATH)/Mods/" Condition="'$(Configuration)' == 'Debug'" />
+        <Copy SourceFiles="@(OutputFiles)" DestinationFolder="Build/" Condition="'$(Configuration)' == 'Debug'" />
     </Target>
 
 </Project>
